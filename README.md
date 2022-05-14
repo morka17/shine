@@ -10,16 +10,16 @@ A few resources to get you started if this is your first Flutter project:
 
 
 <div>
-<img src="https://codelabs.developers.google.com/codelabs/mdc-104-flutter/img/df87ad382464ad6.png" alt="image_file">
+<img src="https://codelabs.developers.google.com/codelabs/mdc-104-flutter/img/df87ad382464ad6.png" alt="image_file" width=300>
 
 </div>
 
 <div>
 
 
-<img src="https://codelabs.developers.google.com/codelabs/mdc-104-flutter/img/7092cdd2688794c.png" alt="image_file">
+<img src="https://codelabs.developers.google.com/codelabs/mdc-104-flutter/img/7092cdd2688794c.png" alt="image_file"  width=300>
 </div>
 
 <div>
-<img src="https://codelabs.developers.google.com/codelabs/mdc-104-flutter/img/7092cdd2688794c.png" alt="image_file">
+<img src="https://codelabs.developers.google.com/codelabs/mdc-104-flutter/img/7092cdd2688794c.png" alt="image_file"  width=300>
 </div>
